@@ -1,22 +1,43 @@
 央视频道,#genre#
-CCTV-1,https://sss-ysp.mxing.cc.cd/cctv1/playlist.m3u8
-CCTV-2,https://sss-ysp.mxing.cc.cd/cctv2/playlist.m3u8
-CCTV-3,https://sss-ysp.mxing.cc.cd/cctv3/playlist.m3u8
-CCTV-4,https://sss-ysp.mxing.cc.cd/cctv4/playlist.m3u8
-CCTV-5,https://sss-ysp.mxing.cc.cd/cctv5/playlist.m3u8
-CCTV-5+,https://sss-ysp.mxing.cc.cd/cctv5p/playlist.m3u8
-CCTV-6,https://sss-ysp.mxing.cc.cd/cctv6/playlist.m3u8
-CCTV-7,https://sss-ysp.mxing.cc.cd/cctv7/playlist.m3u8
-CCTV-8,https://sss-ysp.mxing.cc.cd/cctv8/playlist.m3u8
-CCTV-9,https://sss-ysp.mxing.cc.cd/cctv9/playlist.m3u8
-CCTV-10,https://sss-ysp.mxing.cc.cd/cctv10/playlist.m3u8
-CCTV-11,https://sss-ysp.mxing.cc.cd/cctv11/playlist.m3u8
-CCTV-12,https://sss-ysp.mxing.cc.cd/cctv12/playlist.m3u8
-CCTV-13,https://sss-ysp.mxing.cc.cd/cctv13/playlist.m3u8
-CCTV-14,https://sss-ysp.mxing.cc.cd/cctv14/playlist.m3u8
-CCTV-15,https://sss-ysp.mxing.cc.cd/cctv15/playlist.m3u8
-CCTV-16,https://sss-ysp.mxing.cc.cd/cctv16/playlist.m3u8
-CCTV-17,https://sss-ysp.mxing.cc.cd/cctv17/playlist.m3u8
+CCTV1,https://sss-ysp.mxing.cc.cd/cctv1/playlist.m3u8
+CCTV2,https://sss-ysp.mxing.cc.cd/cctv2/playlist.m3u8
+CCTV3,https://sss-ysp.mxing.cc.cd/cctv3/playlist.m3u8
+CCTV4,https://sss-ysp.mxing.cc.cd/cctv4/playlist.m3u8
+CCTV5,https://sss-ysp.mxing.cc.cd/cctv5/playlist.m3u8
+CCTV5+,https://sss-ysp.mxing.cc.cd/cctv5p/playlist.m3u8
+CCTV6,https://sss-ysp.mxing.cc.cd/cctv6/playlist.m3u8
+CCTV7,https://sss-ysp.mxing.cc.cd/cctv7/playlist.m3u8
+CCTV8,https://sss-ysp.mxing.cc.cd/cctv8/playlist.m3u8
+CCTV9,https://sss-ysp.mxing.cc.cd/cctv9/playlist.m3u8
+CCTV10,https://sss-ysp.mxing.cc.cd/cctv10/playlist.m3u8
+CCTV11,https://sss-ysp.mxing.cc.cd/cctv11/playlist.m3u8
+CCTV12,https://sss-ysp.mxing.cc.cd/cctv12/playlist.m3u8
+CCTV13,https://sss-ysp.mxing.cc.cd/cctv13/playlist.m3u8
+CCTV14,https://sss-ysp.mxing.cc.cd/cctv14/playlist.m3u8
+CCTV15,https://sss-ysp.mxing.cc.cd/cctv15/playlist.m3u8
+CCTV16,https://sss-ysp.mxing.cc.cd/cctv16/playlist.m3u8
+CCTV17,https://sss-ysp.mxing.cc.cd/cctv17/playlist.m3u8
+
+CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+CCTV6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+CCTV7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+CCTV8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+CCTV9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+CCTV10,http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+CCTV11,http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
+CCTV12,http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+CCTV13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
+CCTV14,http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub
+CCTV15,http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
+CCTV16,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+CCTV17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+CCTV4k,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 
 超高清,#genre#
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
@@ -64,6 +85,33 @@ CCTV4K,http://yanshifen.top:8889/udp/239.77.0.194:514
 宁夏卫视,http://pplee.vicp.net:4022/udp/233.18.204.230:5140
 新疆卫视,http://pplee.vicp.net:4022/udp/233.18.204.220:5140
 
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
+东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
+江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
+浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+山东卫视,http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
+深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+黑龙江卫视,http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+吉林卫视,http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
+辽宁卫视,http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+湖北卫视,http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+江西卫视,http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
+贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+云南卫视,http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
+广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
+
 北京地区,#genre#
 北京体育休闲,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
 北京国际,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.131:8002
@@ -100,14 +148,10 @@ CCTV4K,http://yanshifen.top:8889/udp/239.77.0.194:514
 新闻综合,https://sss-ysp.mxing.cc.cd/sh_xinwen/playlist.m3u8
 第一财经,https://sss-ysp.mxing.cc.cd/sh_diyicaijing/playlist.m3u8
 哈哈炫动,https://sss-ysp.mxing.cc.cd/sh_hahaxuandong/playlist.m3u8
-五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=86a2efa09c42c8f425082fc405958019&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=bacdc88caa25b71b955f471072f07349&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 五星体育,http://180.165.12.42:50001/tsfile/live/0001_41.m3u8?key=txiptv
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,http://107.150.60.122/live/wxtyhd.m3u8
 五星体育,http://liuwenxiaokevin.top:14044/rtp/233.18.204.58:5140
-五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 五星体育,http://pplee.vicp.net:4022/udp/233.18.204.58:5140
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 五星体育,https://sss-ysp.mxing.cc.cd/sh_wuxingtiyu/playlist.m3u8
@@ -172,3 +216,51 @@ GRTN生活频道,https://sss-ysp.mxing.cc.cd/gd_grtnshenghuo/playlist.m3u8
 CHC动作电影,http://pplee.vicp.net:4022/udp/233.18.204.174:5140
 CHC家庭影院,http://pplee.vicp.net:4022/udp/233.18.204.173:5140
 CHC影迷电影,http://pplee.vicp.net:4022/udp/233.18.204.175:5140
+
+CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
+CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+
+咪咕视频,#genre#,HOST={"cache.ott.fifalive.itv.cmvideo.cn":"base-v4v6-cm-miguvideo.e.cdn.chinamobile.com"}
+睛彩广场舞,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+睛彩青少,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+睛彩竞技,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+睛彩篮球,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝕂-𝟙,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜𝕂-𝟚,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜,http://gslbserv.itv.cmvideo.cn//index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+咪咕直播 𝟝,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+咪咕直播 𝟞,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+咪咕直播 𝟟,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+咪咕直播 𝟠,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+咪咕直播 𝟡,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟘,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟙,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟚,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟛,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟜,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟝,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟞,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟟,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟠,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟡,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟘,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟙,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟚,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟛,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟜,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟝,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟞,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟟,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟠,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟡,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟘,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟙,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟚,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟛,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟜,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟝,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟞,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989

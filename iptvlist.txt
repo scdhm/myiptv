@@ -91,6 +91,10 @@ CCTV16 4K,http://192.187.124.34:81/live/cctv164k.m3u8
 CCTV4K,http://yanshifen.top:8889/udp/239.77.0.174:5146
 CCTV4K,http://yanshifen.top:8889/udp/239.77.0.194:514
 CCTV4K,http://192.187.124.34:81/live/cctv4ka.m3u8
+求索纪录4K,http://home.airengine.net:9003/udp/228.1.1.67:8002
+北京IPTV4K,http://home.airengine.net:9003/rtp/228.1.1.123:8001
+北京IPTV4K,http://home.zgnc.fun:8824/rtp/239.3.1.249:8001
+北京IPTV4K,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 
 卫视频道,#genre#
 香港卫视,https://hkstv.tv/api/m3u8-proxy?url=http%3A%2F%2Fwebcast.hkstv.tv%2Flivestream%2Fmutfysrq%2Fplaylist.m3u8
@@ -158,23 +162,34 @@ CCTV4K,http://192.187.124.34:81/live/cctv4ka.m3u8
 河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 
 北京地区,#genre#
+北京体育休闲,http://home.airengine.net:9003/udp/228.1.1.117:8000
 北京体育休闲,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
+北京国际,http://home.airengine.net:9003/udp/228.1.1.111:8000
 北京国际,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.131:8002
+北京影视,http://home.airengine.net:9003/udp/228.1.1.190:8000
 北京影视,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.82:8000
+北京文艺,http://home.airengine.net:9003/udp/228.1.1.116:8000
 北京文艺,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.22:8002
+北京新闻,http://home.airengine.net:9003/udp/228.1.1.189:8000
 北京新闻,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.83:8000
+北京生活,http://home.airengine.net:9003/udp/228.1.1.198:8000
 北京生活,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.108:8002
 北京纪实科教,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.105:8002
+北京财经,http://home.airengine.net:9003/udp/228.1.1.197:8000
 北京财经,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.106:8002
 卡酷少儿,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.35:8000
-重温经典,http://home.airengine.net:9003/udp/228.1.1.237:8002
+北京重温经典,http://home.airengine.net:9003/udp/228.1.1.237:8002
+北京重温经典,http://home.airengine.net:9003/udp/228.1.1.237:8002
+北京IPTV淘BABY,http://home.airengine.net:9003/udp/228.1.1.128:8001
 北京IPTV淘BABY,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.36:8002
+北京IPTV萌宠TV,http://home.airengine.net:9003/udp/228.1.1.135:8002
 北京IPTV萌宠TV,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.63:8002
+北京IPTV淘剧场,http://home.airengine.net:9003/udp/228.1.1.126:8001
 北京IPTV淘剧场,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.37:8002
+北京IPTV淘娱乐,http://home.airengine.net:9003/udp/228.1.1.133:8001
 北京IPTV淘娱乐,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.61:8002
+北京IPTV淘电影,http://home.airengine.net:9003/udp/228.1.1.124:8001
 北京IPTV淘电影,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.38:8002
-北京IPTV4K,http://home.airengine.net:9003/rtp/228.1.1.123:8001
-北京IPTV4K,http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
 
 江苏地区,#genre#
 江苏卫视,https://sss-ysp.mxing.cc.cd/js_jsws/playlist.m3u8
